@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Recent Posts See All
-Plugin URI: http://smartestthemes.com/blog/recent-posts-see-all-link/
+Plugin URI: http://smartestthemes.com/blog/recent-posts-widget-see-all-link/
 Description: Adds a widget just like the regular Recent Posts, but with a link to See All Posts.
-Version: 0.6
+Version: 0.6.1
 Author: Smartest Themes
 Author URI: http://smartestthemes.com
 License: GPL2
