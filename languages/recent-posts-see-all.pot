@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recent Posts See All\n"
+"POT-Creation-Date: 2014-03-21 15:30-0500\n"
+"PO-Revision-Date: 2014-03-21 15:31-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Isabel\\Documents\\my_web_sites\\chema\\wp-"
+"content\\plugins\\recent-posts-see-all\n"
+
+#: C:\Users\Isabel\Documents\my_web_sites\chema\wp-content\plugins\recent-posts-see-all/recent-posts-see-all.php:48
+msgid "Just like the Recent Posts widget, but with a link to See All Posts."
+msgstr ""
+
+#: C:\Users\Isabel\Documents\my_web_sites\chema\wp-content\plugins\recent-posts-see-all/recent-posts-see-all.php:49
+msgid "Recent Posts See All"
+msgstr ""
+
+#: C:\Users\Isabel\Documents\my_web_sites\chema\wp-content\plugins\recent-posts-see-all/recent-posts-see-all.php:73
+msgid "Recent Posts"
+msgstr ""
+
+#: C:\Users\Isabel\Documents\my_web_sites\chema\wp-content\plugins\recent-posts-see-all/recent-posts-see-all.php:135
+msgid "Title:"
+msgstr ""
+
+#: C:\Users\Isabel\Documents\my_web_sites\chema\wp-content\plugins\recent-posts-see-all/recent-posts-see-all.php:138
+msgid "Number of posts to show:"
+msgstr ""
+
+#: C:\Users\Isabel\Documents\my_web_sites\chema\wp-content\plugins\recent-posts-see-all/recent-posts-see-all.php:142
+msgid "Display post date?"
+msgstr ""
+
+#: C:\Users\Isabel\Documents\my_web_sites\chema\wp-content\plugins\recent-posts-see-all/recent-posts-see-all.php:144
+msgid "\"See All\" link URL, beginning with http"
+msgstr ""
+
+#: C:\Users\Isabel\Documents\my_web_sites\chema\wp-content\plugins\recent-posts-see-all/recent-posts-see-all.php:147
+msgid "Replace \"See All Posts\" with your own text:"
+msgstr ""
